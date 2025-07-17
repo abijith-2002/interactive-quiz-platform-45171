@@ -1,0 +1,13 @@
+{
+  "name": "quiz-database",
+  "version": "1.0.0",
+  "description": "Database layer for the interactive quiz platform",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mongoose": "^7.5.0",
+    "dotenv": "^16.3.1"
+  }
+}
